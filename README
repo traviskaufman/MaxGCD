@@ -1,0 +1,13 @@
+***************************************************
+* MaxGCD                                          *
+* Uses a Euclidean Algorithm to compute a GCD     *
+* Author: Travis Kaufman                          *
+* Version: 1.0.0                                  *
+***************************************************
+
+My first MaxxMSP External, this object uses the Euclidean algorithm to determine the 
+Greatest Common Divisor between two integers. I really just made it to get my feet 
+wet with writing externals, but it may come of use for algorithmic composition so 
+I figured I’d post it. Make sure you have a dev environment set up according to Max5's API
+before trying to build. Also, this was built using XCode 3, I haven't tested building it
+with XCode 4 yet. 

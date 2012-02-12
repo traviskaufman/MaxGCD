@@ -1,0 +1,2 @@
+/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/MaxGCD/MaxGCD.c: In function 'GCD_in1':
+/Users/traviskaufman/Documents/Code/MaxExternals/TravisKaufman_Objects/MaxGCD/MaxGCD.c:64: warning: passing argument 1 of 'object_post' from incompatible pointer type
